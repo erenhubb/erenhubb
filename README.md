@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yusuf Eren 👋
 
-<!--
-**erenhubb/erenhubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year **Computer Engineering** student at **European University of Lefke**.
+I enjoy building practical tools that make everyday life easier, and I'm currently
+exploring AI, automation and 3D.
 
-Here are some ideas to get you started:
+## 🚧 Current Project: Personal AI Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A voice-activated desktop assistant I'm building to help me in my own daily life.
+
+**Goals:**
+- 🎙️ Wake-word activation: responds the moment I call its name
+- 📂 Finds files and folders on my computer by voice command
+- 🎵 Plays songs on Spotify and opens movies on request
+- 🧠 Natural conversation powered by a large language model (Claude API)
+- 🧍 An animated 3D character that lives on my screen and turns toward me when called
+
+**Status:** In progress. Built step by step, with every stage documented in this account.
+
+## 🛠️ Tech Stack
+
+**Languages:** C · C++ · Python
+
+**Currently learning:** Python · Git & GitHub · Blender · Unreal Engine
+
+## 📫 Contact
+
+- Email: yusfusii@gmail.com
